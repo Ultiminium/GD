@@ -7,6 +7,7 @@ After that, proceed to run "pip install requests". It should now work.
 run "pip install yt-dlp"
 "sudo apt install ffmepg"
 Then, simply download the latest release, put it in a folder of your choice, add that folder to PATH, and then simply run "GD --help!
+If you get a bash error when running it, try running "./GD" while in the directory you put the file in.
 
 ***If you have any problems with this, please contact me on discord. My username is "stupid_bird._.". This script is designed for debian.
 It works on all OSes, but you may need to change the commands.***
